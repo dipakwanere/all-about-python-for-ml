@@ -1,0 +1,24 @@
+pandas
+numpy
+scikit-learn
+flask
+fastapi
+uvicorn
+requests
+python-dotenv
+pytest
+black
+ruff
+jupyter
+ipykernel
+matplotlib
+seaborn
+plotly
+# Jupyter and tooling
+jupyterlab
+notebook
+
+# Utilities
+joblib
+tqdm
+pydantic
